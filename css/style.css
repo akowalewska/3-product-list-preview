@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    box-sizing: border-box;
+    background-color: #98fb98;
+}
+
+.product-photo {
+    display: inline-block;
+    height: 25%;
+    width: 25%;
+    background-color: black;
+}
+
+#product-1 {
+    background-image: url(../img/product-1.jpg);
+    
+}
+
+#product-2 {
+    background-image: url(../img/product-2.jpg)
+}
+
+#product-3 {
+    background-image: url(../img/product-3.jpg)
+}
+
+#product-4 {
+    background-image: url(../img/product-4.jpg)
+}
