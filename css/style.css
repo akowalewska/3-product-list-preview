@@ -6,7 +6,8 @@ body {
 }
 
 #all-products {
-    overflow: hidden;    
+    overflow: hidden;
+    margin-top: 10%;
 }
 
 #all-products .product-photo {
